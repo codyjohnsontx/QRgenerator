@@ -1,5 +1,7 @@
 # QR Generator
 
+**Website:** [QR Generator](https://qrcodegenerator-jonhnson.netlify.app/)
+
 ## Description
 
 QR Generator is a simple web application that allows users to generate QR codes quickly by entering a website URL along with the desired height and width of the QR code.
