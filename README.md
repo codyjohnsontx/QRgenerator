@@ -30,10 +30,10 @@ The application uses the QR Server API to generate the QR code based on the prov
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+This project is licensed under the MIT License.
 
 ## Author
 
-Created by [Your Name].
+Created by Cody Johnson.
 
 Feel free to reach out with any questions or suggestions!
