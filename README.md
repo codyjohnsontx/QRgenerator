@@ -36,4 +36,6 @@ This project is licensed under the MIT License.
 
 Created by Cody Johnson.
 
+Connect with me on [LinkedIn](https://www.linkedin.com/in/cody-johnson-92460b124/).
+
 Feel free to reach out with any questions or suggestions!
